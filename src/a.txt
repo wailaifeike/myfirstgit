@@ -1,0 +1,11 @@
+https://translate.yandex.net/api/v1.5/tr.json/translate
+ ? key=<API key>
+ & text=<text to translate>
+ & lang=<translation direction>
+ & [format=<text format>]
+ & [options=<translation options>]
+ & [callback=<name of the callback function>]
+
+
+
+ api_key = trnsl.1.1.20180826T122615Z.26e8727a095f940c.3d5225ecf3d398933b8458bc600459a8ce2fedd9

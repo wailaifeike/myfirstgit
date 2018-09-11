@@ -21,7 +21,7 @@
 
 <script>
 export default {
-  name: '单词翻译',
+  name: 'HelloWorld',
   data () {
     return {
       input10: '',
